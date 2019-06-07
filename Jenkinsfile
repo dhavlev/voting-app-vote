@@ -22,7 +22,7 @@ def ciConfig = [
 ]
 
 
-main{
+facade{
     ci = ciConfig
     cd = cdConfig
 }
